@@ -1,6 +1,6 @@
 body {
     border: 0%;
-    background-image: url(../Imagens/background.jpg);
+    background-image: url(../Imagens/scania1.jpg);
     background-repeat: no-repeat,;
     background-size: cover;
     background-origin: border-box;
@@ -52,7 +52,7 @@ body {
 #TituloBackground {
     text-align: center ;
     background-color: rgba(255, 255, 255, 0.6);
-    font-size: 60px;
+    font-size: 10px;
     padding: 1%;
     font-family: 'North', sans-serif;
     border-radius: 60px;
